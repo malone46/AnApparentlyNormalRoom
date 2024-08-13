@@ -8,3 +8,6 @@ In An Apparently Normal Room you will be trapped in a single room, a white small
 - Adapt controls ⬛️
 - Link levels ⬛️
 - Make Right Joystick move the cam ⬛️
+
+# Added Features:
+- Async Loading for a smoother experience.
